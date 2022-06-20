@@ -1,1 +1,1 @@
-# Srinivas-CloudDemo
+# spring-boot-crud-example
